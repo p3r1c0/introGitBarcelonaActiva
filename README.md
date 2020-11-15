@@ -1,4 +1,4 @@
 # introGitBarcelonaActiva
 Curs Barcelona Activa - Demo Repo
-Això ja funciona.
+Això ja funciona 2.
 
